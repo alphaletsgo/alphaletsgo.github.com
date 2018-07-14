@@ -1,6 +1,6 @@
 ---
 layout: posts_by_category
 categories: python
-title: Python
+title: python
 permalink: /category/python
 ---

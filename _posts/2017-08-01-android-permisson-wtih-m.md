@@ -2,7 +2,7 @@
 layout: post
 title:  "Android6.0权限"
 date:   2017-08-01
-categories: [Android]
+categories: [android]
 ---
 
 Android6.0之后将权限分为了两类：普通和危险权限，普通权限和危险权限都需要在AndroidManifest文件中声明，同时还引入了权限组的概念。
@@ -155,10 +155,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
 ### 参考
 
-[ Android 6.0 运行时权限处理完全解析-鸿阳](http://blog.csdn.net/lmj623565791/article/details/50709663)
-[Android M 新的运行时权限开发者需要知道的一切](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0830/3387.html)
-[Android 6.0运行时权限用户选择“不在提示”的处理 - 三点一四        - CSDN博客](http://blog.csdn.net/u012719153/article/details/66132337)
-[Appops权限管理 - CSDN博客](http://blog.csdn.net/liu1314you/article/details/52057669)
+- [ Android 6.0 运行时权限处理完全解析-鸿阳](http://blog.csdn.net/lmj623565791/article/details/50709663)
+- [Android M 新的运行时权限开发者需要知道的一切](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0830/3387.html)
+- [Android 6.0运行时权限用户选择“不在提示”的处理 - 三点一四        - CSDN博客](http://blog.csdn.net/u012719153/article/details/66132337)
+- [Appops权限管理 - CSDN博客](http://blog.csdn.net/liu1314you/article/details/52057669)
 
 开源框架
+
 [GitHub - permissions-dispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher)

@@ -2,7 +2,7 @@
 layout: post
 title:  "Android File存储"
 date:   2016-05-20
-categories: [Android]
+categories: [android]
 ---
 
 # Android File存储

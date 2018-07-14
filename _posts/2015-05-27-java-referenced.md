@@ -2,7 +2,7 @@
 layout: post
 title:  "Java引用相关"
 date:   2015-05-27
-categories: [Java]
+categories: [java]
 ---
 
 > 由于经常搞不清java各个引用的作用以及便于理解记忆特写此文。

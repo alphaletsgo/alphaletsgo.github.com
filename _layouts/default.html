@@ -118,12 +118,12 @@ layout: compress
             </ul>
           </div>
           <div class="search" id="js-search">
-            <input type="text" placeholder="(sitemap)~$ type to search" class="search__input form-control" id="js-search__input">
+            <input type="text" placeholder="search more" class="search__input form-control" id="js-search__input">
             <ul class="search__results" id="js-search__results"></ul>
           </div>
           <hr />
           <ul class="sidebar-nav">
-            <strong>Navigation</strong>
+            <strong style="display: none;">Navigation</strong>
             <li><a href="/">Home</a></li>
             {% for i in site.urls %}
               <li><a class="about" href="{{ i.url }}">{{ i.text }}</a></li>
@@ -139,7 +139,7 @@ layout: compress
           {% if site.github %}
             - <a href="{{ site.github }}">{{ site.github }}</a> - Powered by Jekyll.
           {% endif %}
-          <!-- 由于数据不太好看暂时隐藏 -->
+          <!-- 由于数据不太好看暂时隐藏 :) -->
           <div class="btn-github" style="float:right;display: none;" >
             <iframe src="https://ghbtns.com/github-btn.html?user=uncle404&repo=uncle404.github.io&type=star&count=true" frameborder="0" scrolling="0" width="85" height="20px"></iframe>
             <iframe src="https://ghbtns.com/github-btn.html?user=uncle404&repo=uncle404.github.io&type=fork&count=true" frameborder="0" scrolling="0" width="85" height="20px"></iframe>

@@ -2,7 +2,7 @@
 layout: post
 title:  "HashMap碰撞失败了，怎么优化？"
 date:   2015-05-22
-categories: [Java]
+categories: [java]
 ---
 
 HashMap是利用key的hashcode散列算出key在table表中的位置来存储数据的，HashMap碰撞失败是指，当key的hashcode不同时算出来的位置确是相同，这里有出现了冲突。有两种解决问题的方案：扩容和链表法。

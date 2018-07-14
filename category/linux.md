@@ -1,6 +1,6 @@
 ---
 layout: posts_by_category
-categories: Linux
-title: Linux
-permalink: /category/Linux
+categories: linux
+title: linux
+permalink: /category/linux
 ---

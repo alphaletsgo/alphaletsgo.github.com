@@ -2,7 +2,7 @@
 layout: post
 title:  "Android GradleScript配置"
 date:   2016-06-06
-categories: [Android]
+categories: [android]
 ---
 
 ## 编译时动态设置 Android resValue
