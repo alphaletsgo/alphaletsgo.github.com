@@ -1,0 +1,10 @@
+.bundle
+vendor
+Gemfile.lock
+_site
+.sass-cache
+.jekyll-metadata
+.vscode
+.idea
+.DS_Store
+Gemfile
