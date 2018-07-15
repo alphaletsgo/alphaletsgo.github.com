@@ -50,6 +50,7 @@ a:hover {
 .sidebar-nav li {
   margin: 0;
   list-style: none;
+  font-size: 14px;
 }
 .sidebar-nav li::before {
   content: "»";
@@ -62,7 +63,7 @@ div.content pre {
   padding: 10px;
   color: #FFF;
   overflow-x: auto;
-  font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+  /*font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;*/
   font-size: 12px;
   border: none;
 }
@@ -174,6 +175,37 @@ div.col-sm-3 img.profile-avatar {
 }
 @media (max-width: 768px) {
   div.col-sm-3 {
-    margin-top: 30px;
+    margin-top: 10px;
+  }
+  .sidebar-nav {
+    margin: 0;
+    padding: 0;
+  }
+  .sidebar-nav li {
+   margin: 0;
+   display:inline;
+   list-style: none;
+   font-size: 14px;
+  }
+  .sidebar-nav li::before {
+    content: " ";
+    margin-right: .5em;
+  }
+  div.profile-about {
+    display: none;
+  }
+  img.profile-avatar {
+    display: none;
+  }
+  h1.author-name {
+    margin-top: 0px;
+    margin-bottom: 8px;
+  }
+  .fixed-condition hr {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 0;
+    border-top: 1px solid #F7F1F1;
+    border-bottom: 1px solid #fff;
   }
 }

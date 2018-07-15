@@ -124,7 +124,7 @@ layout: compress
           <hr />
           <ul class="sidebar-nav">
             <strong style="display: none;">Navigation</strong>
-            <li><a href="/">Home</a></li>
+            <li><a href="/">首页</a></li>
             {% for i in site.urls %}
               <li><a class="about" href="{{ i.url }}">{{ i.text }}</a></li>
             {% endfor %}
@@ -135,9 +135,9 @@ layout: compress
       <div class="col-sm-8 col-offset-1 main-layout">
         {{ content }}
         <footer>
-          &copy; {{ site.author }}
-          {% if site.github %}
-            - <a href="{{ site.github }}">{{ site.github }}</a> - Powered by Jekyll.
+          &copy; Design
+          {% if site.author %}
+            - <a href="{{ site.github }}">{{ site.author }}</a> & Powered by Jekyll.
           {% endif %}
           <!-- 由于数据不太好看暂时隐藏 :) -->
          <!--  <div class="btn-github" style="float:right;display: none;" >

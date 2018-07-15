@@ -16,12 +16,17 @@ collections:
 social:
     - icon: fa-github
       link: "https://github.com/uncle404"
+    - icon: fa-linkedin
+      link: http://www.linkedin.com/in/%E5%91%A8%E6%AF%85-%E4%BD%95-73053b100/
+    - icon: fa-rss
+      link: /feed.xml
 
 urls:
-    - text: About Me
+    - text: 归档
+      url: /archives
+    - text: 关于
       url: /about/
-    - text: XML Feed
-      url: /feed.xml
+
 
 url: "https://uncle404.github.io"
 baseurl: ""
