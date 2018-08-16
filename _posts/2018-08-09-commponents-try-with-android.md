@@ -112,6 +112,18 @@ sourceSets {
 更多关于组件化实现的细节可以参考我们的[ARouterDemo](https://github.com/uncle404/ArouterDemo)。
 
 
+## 参考
+
+- [当MVVM遇到Databinding，京东工程师实现1+1>2](https://mp.weixin.qq.com/s/ceHY88Itew8w5wYiNOYwtg)
+- [GitHub - alibaba/ARouter: 💪 A framework for assisting in the renovation of Android componentization](https://github.com/alibaba/ARouter)
+- [阿里路由框架—ARouter 源码解析之Compiler - CSDN博客](https://blog.csdn.net/crazy1235/article/details/77126904)
+- [Android组件化开发实践 - 简书](https://www.jianshu.com/p/186fa07fc48a)
+- [Android组件化方案 - CSDN博客](https://blog.csdn.net/guiying712/article/details/55213884)
+- [组件化、模块化、集中式、分布式、服务化、面向服务的架构、微服务架构-HollisChuang’s Blog](http://www.hollischuang.com/archives/1628)
+- [使用Gradle和Sonatype Nexus 搭建私有maven仓库 - CSDN博客](https://blog.csdn.net/u011974987/article/details/52372185)
+- [搭建 Maven 私有仓库 - Android - 掘金](https://juejin.im/entry/58eb3e3da22b9d0058aafc28)
+
+
 
 
 
