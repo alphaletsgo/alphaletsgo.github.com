@@ -71,6 +71,8 @@ categories: [other]
 
 - [CymChad/BaseRecyclerViewAdapterHelper: BRVAH:Powerful and flexible RecyclerAdapter](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
 
+- [流式布局flexbox-layout](https://github.com/google/flexbox-layout)
+
 ## 另外在放一个国内的源
 
 - [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/help/AOSP/)
