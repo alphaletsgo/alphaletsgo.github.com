@@ -28,7 +28,7 @@ categories: [other]
 - [Android Open Source Project](http://source.android.com/source/downloading.html)
 - [google/iosched: The Google I/O 2016 Android App](https://github.com/google/iosched)
 - [Google AR](https://github.com/google-ar)
-- [giffun](https://github.com/guolindev/giffun)
+- [giffun](https://github.com/guolindev/giffun) —— 该项目使用kotlin语言开发，代码相当友好，极易学习。
 
 ## Android 三方库
 
