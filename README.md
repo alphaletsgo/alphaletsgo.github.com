@@ -1,5 +1,5 @@
 # uncle 404
-> 本博客基于[agusmakmun](https://agusmakmun.github.io/)修改，做了最大程度的精简，适配中文显示，优化了部分样式，最终效果参考[uncle404](https://isif.cn)。
+> 本博客基于[agusmakmun](https://agusmakmun.github.io/)修改，做了最大程度的精简，适配中文显示，优化了部分样式，最终效果参考[uncle404](https://ifok.run)。
 
 # 功能
 
