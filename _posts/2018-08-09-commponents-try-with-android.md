@@ -2,7 +2,7 @@
 layout: post
 title:  "Android 组件化"
 date:   2018-08-09
-categories: [ android]
+categories: [android]
 ---
 
 

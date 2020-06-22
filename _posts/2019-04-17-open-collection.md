@@ -2,7 +2,7 @@
 layout: post
 title:  "【收藏】一些开源项目"
 date:   2019-04-17 18:00
-categories: [other]
+categories: [others]
 ---
 
 ## 开源灵魂公司
